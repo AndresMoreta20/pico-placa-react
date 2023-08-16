@@ -1,3 +1,7 @@
+# Pico y Placa predictor
+
+Web application to verify if your license plate has a traffic restriction due to the Pico y Placa regulation in Quito.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
